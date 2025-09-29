@@ -1,0 +1,50 @@
+print("Hello world")
+
+for i in range(5):
+    print(i)
+
+a=12
+b=20
+c=a+b
+
+print(c)
+
+nombre = 'David'
+Nombre = 'Diego'
+NOMBRE = 'Rosita'
+
+print(nombre)
+print(Nombre)
+print(NOMBRE)
+
+
+una = 3
+otra = 6
+
+print(una < otra)
+print(una == otra)
+
+print('Hola mundo')
+#Hola mundo
+
+print('Hola mundo',  end='')
+# Hola mundo putoHola mundo***
+
+print('Hola mundo', end='***')
+# Hola mundo***
+
+print('Hola mundo', end='\n')
+# Hola mundo
+print('Hola mundo', end='\n\n')
+# Hola mundo
+
+print('Hola mundo', end='\n\n\n')
+# Hola mundo
+
+
+print('Hola mundo', end='\t')
+print("puto")
+# Hola mundo      puto
+
+print('Hola mundo', end='\n\t')
+# Hola mundo
